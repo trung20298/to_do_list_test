@@ -1,0 +1,24 @@
+.ListToDo {
+  width: 100%;
+}
+
+.container {
+  padding-right: 35px;
+  padding-left: 35px;
+  padding-bottom: 150px;
+}
+
+.title {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 50px;
+  font-weight: bold;
+}
+
+.Search {
+  width: 100%;
+  border-style: groove;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  margin-bottom: 20px;
+}

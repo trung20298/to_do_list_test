@@ -1,0 +1,56 @@
+.AddNewTask {
+  width: 100%;
+}
+
+.title {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 50px;
+  font-weight: bold;
+}
+
+.container {
+  padding-right: 35px;
+  padding-left: 35px;
+  padding-bottom: 150px;
+}
+
+.newTask {
+  width: 100%;
+  border-style: groove;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  margin-bottom: 25px;
+}
+
+#description {
+  border-style: solid;
+  border-color: black;
+  border-width: 1.5px;
+  margin-bottom: 25px;
+}
+
+#selList {
+  width: 100%;
+  border: solid;
+  border-width: 1.5px;
+}
+
+.ant-space-vertical {
+  width: 100%;
+}
+
+.ant-picker {
+  width: 100%;
+  border: solid;
+  border-width: 1.5px;
+}
+
+.select {
+  margin-bottom: 100px;
+}
+
+#addButton {
+  width: 100%;
+  background-color: RGB(91, 184, 93);
+}
